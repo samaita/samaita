@@ -10,10 +10,10 @@ I'm [MasGar](https://github.com/samaita)
 
 💪 On a mission to optimize resources, high code quality and keeping costs low. 💸
 
-🖥️ I'm on my continuos learning path the art of backend, Designing scalable server-side applications and make it secure. 🔒
+🖥️ Grinding skill in backend, Designing scalable server-side applications and make it secure. 🔒
 
-👣 Through my journey, I've met various precious insights and solutions that I'm eager to share with you. 📤
+👣 Through my journey, I've met various precious insights and solutions that I'm eager to share. 📤
 
 🤝 If you have same interest or just want to say hi, let's connect on [LinkedIn](https://www.linkedin.com/in/gary-almas-samaita/). 🌌
 
-📬 Reach out to me at [garysamaita@gmail.com](mailto:garysamaita@gmail) for business inquiry. 🎇
+📬 Reach out me at [garysamaita@gmail.com](mailto:garysamaita@gmail) for business inquiry. 🎇
